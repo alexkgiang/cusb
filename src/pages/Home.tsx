@@ -2,11 +2,13 @@ import React from 'react';
 import Image from 'next/image';
 import bear from './images/bear.png';
 import styles from './styles/home.module.css';
+import Navbar from '../components/Navbar';
 
 function Home() {
   return (
     <main className={styles.homecontainer}>
       <div className={styles.homeimage}>
+        <Navbar />
         <Image
           src={bear}
           alt="cusb bear"
