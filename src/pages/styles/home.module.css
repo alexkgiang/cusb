@@ -1,13 +1,10 @@
-body.body {
-  font-family: "Inter", sans-serif;
-}
-
 .homecontainer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   margin-top: 200px;
+  font-family: 'Inter', sans-serif;
 }
 
 @media screen and (max-width: 1200px) {
@@ -35,11 +32,14 @@ body.body {
 }
 
 .homeheader {
-  font-weight: 700;
+  font-weight: 600;
+  font-size: 40px;
 }
 
 .homedesc {
+  margin-top: 10px;
   font-weight: 450;
+  font-size: 20px;
 }
 
 .homeimage {
