@@ -7,8 +7,8 @@ import Navbar from '../components/Navbar';
 function Home() {
   return (
     <main className={styles.homecontainer}>
+      <Navbar />
       <div className={styles.homeimage}>
-        <Navbar />
         <Image
           src={bear}
           alt="cusb bear"
