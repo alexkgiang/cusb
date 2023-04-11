@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import styles from './Footer.module.css';
 import Image from 'next/image';
-import facebook from './facebook.png';
-import instagram from './insta.png';
-import linkedin from './linkedin.png';
+import facebook from './logos/facebook.png';
+import instagram from './logos/insta.png';
+import linkedin from './logos/linkedin.png';
 
 function Footer() {
   return (

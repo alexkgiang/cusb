@@ -103,7 +103,6 @@
 }
 
 .facebookimg {
-  background: url(facebook.png);
   background-size: 24px 24px;
   width: 24px;
   height: 24px;
@@ -111,7 +110,6 @@
 }
 
 .instagramimg {
-  background: url(insta.png);
   background-size: 24px 24px;
   width: 24px;
   height: 24px;
@@ -119,7 +117,6 @@
 }
 
 .linkedinimg {
-  background: url(linkedin.png);
   background-size: 24px 24px;
   width: 24px;
   height: 24px;

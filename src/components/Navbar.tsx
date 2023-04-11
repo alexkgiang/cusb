@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import styles from './Navbar.module.css';
-import logo from './logo.png';
+import logo from './logos/logo.png';
 import Image from 'next/image';
 
 function Navbar() {
