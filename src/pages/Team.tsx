@@ -7,7 +7,6 @@ function Team() {
   return (
     <main>
       <Navbar />
-      <p> Team </p>
       <Footer />
     </main>
   )
