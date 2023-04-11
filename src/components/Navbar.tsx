@@ -22,7 +22,7 @@ function Navbar() {
         </a>
         <Link href="/Home" className={styles.nav}>Home</Link>
         <a href="/About" className={styles.nav}>About</a>
-        <a href="Team.html" className={styles.nav}>Team</a>
+        <a href="/Team" className={styles.nav}>Team</a>
         <a href="Support.html" className={`${styles.nav} ${styles.highlight}`}>Support Us</a>
       </div>
     </nav>
