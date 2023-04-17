@@ -34,7 +34,7 @@ function About() {
         <h3 className={styles.aboutlower}>
           The subteams{' '}
           <span className={styles.aboutlowerfont}>
-            are student-led intra-teams, and each of them with their own unique engineering goals. We embrace the
+            are student-led teams, and each of them with their own contribution to the boat. We embrace the
             diverse skill sets and backgrounds of our team members and actively engage in and encourage cross-team,
             multidisciplinary work.
           </span>
