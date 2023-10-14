@@ -81,9 +81,9 @@
 
   /* Override styles for images within .homeimage */
   .homeimage>img {
-    max-width: 400px;
-    height: auto;
-    margin-right: 500px;
+    width: 40vw;
+    max-width: 500px;
+    margin-right: auto;
     margin-left: auto;
   }
 }
